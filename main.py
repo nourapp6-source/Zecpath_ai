@@ -1,0 +1,1 @@
+print("AI Recruitment System Started")
