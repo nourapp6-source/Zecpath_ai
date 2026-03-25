@@ -1,0 +1,9 @@
+{
+    "file_name": "sample_resume.pdf",
+    "text": "sample cleaned resume text",
+    "sections": {
+        "education": "bsc computer science",
+        "experience": "intern at xyz",
+        "skills": "python machine learning"
+    }
+}
